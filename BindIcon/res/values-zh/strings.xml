@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">BindIcon</string>
+	<string name="bind_contact">绑定联系人</string>
+	<string name="bind_call">绑定拨号</string>
+	<string name="bind_mms">绑定短信</string>
+	<string name="contact">联系人</string>
+	<string name="call">电话</string>
+	<string name="sms">短信</string>
+
+</resources>
